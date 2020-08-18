@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/qutiq-assignment1/static/css/main.8df76e2e.chunk.css",
+    "main.js": "/qutiq-assignment1/static/js/main.2081db09.chunk.js",
+    "main.js.map": "/qutiq-assignment1/static/js/main.2081db09.chunk.js.map",
+    "runtime-main.js": "/qutiq-assignment1/static/js/runtime-main.3205144e.js",
+    "runtime-main.js.map": "/qutiq-assignment1/static/js/runtime-main.3205144e.js.map",
+    "static/css/2.11829350.chunk.css": "/qutiq-assignment1/static/css/2.11829350.chunk.css",
+    "static/js/2.bcbb67ab.chunk.js": "/qutiq-assignment1/static/js/2.bcbb67ab.chunk.js",
+    "static/js/2.bcbb67ab.chunk.js.map": "/qutiq-assignment1/static/js/2.bcbb67ab.chunk.js.map",
+    "index.html": "/qutiq-assignment1/index.html",
+    "precache-manifest.647319cfce6bd49820380284d09319cd.js": "/qutiq-assignment1/precache-manifest.647319cfce6bd49820380284d09319cd.js",
+    "service-worker.js": "/qutiq-assignment1/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/qutiq-assignment1/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8df76e2e.chunk.css.map": "/qutiq-assignment1/static/css/main.8df76e2e.chunk.css.map",
+    "static/js/2.bcbb67ab.chunk.js.LICENSE.txt": "/qutiq-assignment1/static/js/2.bcbb67ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3205144e.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.bcbb67ab.chunk.js",
+    "static/css/main.8df76e2e.chunk.css",
+    "static/js/main.2081db09.chunk.js"
+  ]
+}
